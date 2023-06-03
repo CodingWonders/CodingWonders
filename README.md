@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Thanks to the power of an old, yet reliable, version of Visual Studio (Ultimate 2012); powerful and amazing products are being created.
 
-### What I'm up to?
+### What am I up to?
 - [DISMTools](https://github.com/CodingWonders/DISMTools), a free and open-source GUI for DISM operations
 - [Code Backup Utility](https://github.com/CodingWonders/code-backup-util), a Power Automate flow designed to back up code files daily
 - [ix.io Uploader](https://github.com/CodingWonders/ix-uploader), a simple C# program designed to upload text files to [ix.io](http://ix.io)
