@@ -26,3 +26,7 @@ Thanks to the power of an old, yet reliable, version of Visual Studio (Ultimate 
 
 ### Follow my work
 I also focus on software reports on BetaWiki, mostly of Visual Studio versions, but also of other software products. Check out my contributions to this amazing site [here](https://betawiki.net/wiki/Special:Contributions/BetaReporter).
+
+<p align="center">
+  <img src="https://github.com/CodingWonders/CodingWonders/assets/101426328/a9116987-4add-451d-9973-283c04ea1849">
+</p>
