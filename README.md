@@ -34,3 +34,6 @@ I have recently begun archiving stuff to the [Internet Archive](https://archive.
 <p align="center">
   <img src="https://github.com/CodingWonders/CodingWonders/assets/101426328/a9116987-4add-451d-9973-283c04ea1849">
 </p>
+
+### Contact
+If you want to talk about something related to software development or technology, contact me via [e-mail](mailto:betareporter98@gmail.com). Any topic other than those 2 will not have the same priority and (in some cases) it may be discarded.
