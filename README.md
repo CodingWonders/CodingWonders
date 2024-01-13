@@ -24,6 +24,11 @@ Thanks to the power of an old, yet reliable, version of Visual Studio (Ultimate 
   <img src="https://github.com/CodingWonders/CodingWonders/assets/101426328/173a6ed0-776b-42d3-9f4f-cb4d2f02a9da">
 </p>
 
+I'm also finding issues in other projects and trying to fix them. Some projects I've contributed to are:
+
+- [WinGet packages](https://github.com/microsoft/winget-pkgs)
+- [Windows Utility (formerly Windows Toolbox, MicroWin)](https://github.com/ChrisTitusTech/winutil)
+
 ### Follow my work
 I also focus on software reports on BetaWiki, mostly of Visual Studio versions, but also of other software products. Check out my contributions to this amazing site [here](https://betawiki.net/wiki/Special:Contributions/BetaReporter).
 
