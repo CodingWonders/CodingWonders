@@ -49,3 +49,7 @@ If you want to check out the statistics of my GitHub profile, here they are:
 
 ### Contact
 If you want to talk about something related to software development or technology, contact me via [e-mail](mailto:betareporter98@gmail.com). Any topic other than those 2 will not have the same priority and (in some cases) it may be discarded.
+
+For more specific things related to the projects I contribute to (such as DISMTools or WinUtil), you can also find me on Discord under the name *CodingWonders*. The same rules apply - if you talk about another topic, it will not have the same priority.
+
+**And, if you contact me for the sake of scamming someone or for another malicious purpose, you will be blocked/reported**
