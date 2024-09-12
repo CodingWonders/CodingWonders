@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Thanks to the power of an old, yet reliable, version of Visual Studio (Ultimate 2012*); powerful and amazing products are being created.
 
-* Currently replaced with Visual Studio 2022 because of its `/noScale` flag thanks to a new system
+\* Currently replaced with Visual Studio 2022 because of its `/noScale` flag thanks to a new system
 
 ### What am I up to?
 - [DISMTools](https://github.com/CodingWonders/DISMTools), *the connected place for Windows system administration*
