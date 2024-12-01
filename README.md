@@ -49,8 +49,13 @@ I have recently begun archiving stuff to the [Internet Archive](https://archive.
 
 If you want to check out the statistics of my GitHub profile, here they are:
 
-![CodingWonders's Stats](https://github-readme-stats.vercel.app/api?username=CodingWonders&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![CodingWonders's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWonders&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<table align="center" valign="middle" cellspacing="2" cellpadding="4" style="border: none">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CodingWonders&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWonders&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></td>    
+  </tr>
+</table>  
+
 
 ### Contact
 If you want to talk about something related to software development or technology, contact me via [e-mail](mailto:betareporter98@gmail.com). Any topic other than those 2 will not have the same priority and (in some cases) it may be discarded.
