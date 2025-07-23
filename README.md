@@ -28,6 +28,7 @@ I'm also finding issues in other projects and trying to fix them. Some projects 
 
 - [WinGet packages](https://github.com/microsoft/winget-pkgs)
 - [Windows Utility (formerly Windows Toolbox) (MicroWin component)](https://github.com/ChrisTitusTech/winutil)
+- [Mac Utility (*because I hate macOS by default so much that I want to work on it, though I'll do it when I can/want*)](https://github.com/ChrisTitusTech/macutil)
 
 Other projects I've worked on are:
 
