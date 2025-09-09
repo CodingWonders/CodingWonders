@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <!-- <img src="https://github.com/CodingWonders/CodingWonders/assets/101426328/914637fb-42fa-463d-b62f-6be357143d80" /> -->
+  <img width="1920" height="1080" alt="gh_cw_banner" src="https://github.com/user-attachments/assets/84ff1144-4c6b-4974-b09d-48434b84ed2e" />
+</p>
+
 Thanks to the power of an old, yet reliable, version of Visual Studio (Ultimate 2012); powerful and amazing products are being created.
 
 ### What am I up to?
 - [DISMTools](https://github.com/CodingWonders/DISMTools), *the connected place for Windows system administration*
 - [WIM Explorer](https://github.com/CodingWonders/WIM-Explorer), a basic file explorer for Windows images
 - [UnattendGen](https://github.com/CodingWonders/UnattendGen), a console application that lets you create unattended answer files
-
-<p align="center">
-  <img src="https://github.com/CodingWonders/CodingWonders/assets/101426328/914637fb-42fa-463d-b62f-6be357143d80" />
-</p>
+- [Sysprep Preparator](https://github.com/CodingWonders/SysprepPreparator), a tool that prepares computers for Sysprep
 
 I'm also finding issues in other projects and trying to fix them. Some projects I've contributed to are:
 
