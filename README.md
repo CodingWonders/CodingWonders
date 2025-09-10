@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- <img src="https://github.com/CodingWonders/CodingWonders/assets/101426328/914637fb-42fa-463d-b62f-6be357143d80" /> -->
-  <img width="1920" height="1080" alt="gh_cw_banner" src="https://github.com/user-attachments/assets/84ff1144-4c6b-4974-b09d-48434b84ed2e" />
+  <img width="1920" height="1080" alt="gh_cw_banner" src="https://github.com/user-attachments/assets/c45d7bc4-3aba-4af5-8e11-327a2038c6d1" />
 </p>
 
 Thanks to the power of an old, yet reliable, version of Visual Studio (Ultimate 2012); powerful and amazing products are being created.
