@@ -41,6 +41,10 @@ Other projects I've worked on are:
 
 If you're bored and want a challenge, take my ultimate [Windows knowledge quiz](https://forms.gle/wzeZ9Mvq9W4eKz1WA).
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31363d0f-a326-4587-bccd-7a4d2c58a31d" />
+</p>
+
 ### Follow my work
 I also focus on software reports on BetaWiki, mostly of Visual Studio versions and other software products. Check out my contributions to this amazing site [here](https://betawiki.net/wiki/Special:Contributions/BetaReporter).
 
