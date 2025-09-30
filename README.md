@@ -37,6 +37,10 @@ Other projects I've worked on are:
 - [Code Backup Utility](https://github.com/CodingWonders/code-backup-util), a Power Automate flow designed to back up code files daily (**Past project**)
 - [ix.io Uploader](https://github.com/CodingWonders/ix-uploader), a simple C# program designed to upload text files to [ix.io](http://ix.io) (**Past project**)
 
+### Want to challenge me?
+
+If you're bored and want a challenge, take my ultimate [Windows knowledge quiz](https://forms.gle/wzeZ9Mvq9W4eKz1WA).
+
 ### Follow my work
 I also focus on software reports on BetaWiki, mostly of Visual Studio versions and other software products. Check out my contributions to this amazing site [here](https://betawiki.net/wiki/Special:Contributions/BetaReporter).
 
